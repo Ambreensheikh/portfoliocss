@@ -43,7 +43,7 @@ function ContactUs() {
         <span>C</span>ontact
         <span> M</span>e</h1>
 
-        <p>i am available for freelance work. Contact me and let's get started.You 
+        <p>i am available for freelance work. Contact me and let&apos;s get started.You 
           feels free to contact me<br/>My Expertise in frontened Development and aweb Application.</p>
 
 
