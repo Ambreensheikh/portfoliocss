@@ -71,14 +71,4 @@ function Card({item}:{item:{src:string, title:string, description:string}}) {
 
 
 
-
-
-
-
-
-
-
-
-
-
 export default ServicesCard

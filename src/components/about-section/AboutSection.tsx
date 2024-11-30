@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import styles from './AboutSection.module.css'
+import styles from './Aboutsection.module.css'
 import { caveatFont, interFont } from '@/font';
 import Button from '../Button/Button';
 import Image from 'next/image';
